@@ -1,0 +1,48 @@
+# Core Flask and Telegram Bot Dependencies
+Flask==2.3.3
+pyTelegramBotAPI==4.14.0
+Werkzeug==2.3.7
+apscheduler
+telebot
+# Google Gemini AI for chat responses
+google-generativeai==0.3.2
+python-dotenv
+# Google Sheets Integration
+gspread==5.12.0
+google-auth==2.23.4
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
+
+# Environment variables (not needed for simple config)
+# python-dotenv==1.0.0
+
+# Date and time handling
+python-dateutil==2.8.2
+
+# JSON handling and utilities
+requests==2.31.0
+urllib3==2.0.7
+
+# Async support (optional, for better performance)
+asyncio==3.4.3
+
+# Logging and monitoring
+python-logging==0.4.9.6
+
+# Data validation
+pydantic==2.5.0
+
+# Backup and file handling
+schedule==1.2.0
+
+# Web server (for production deployment)
+gunicorn==21.2.0
+
+# Database (if you want to upgrade from JSON)
+# sqlalchemy==2.0.23
+# sqlite3 (built-in with Python)
+
+# Development dependencies (optional)
+pytest==7.4.3
+black==23.11.0
+flake8==6.1.0

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "elite-barber-shop-bot",
+  "private_key_id": "f3c28b3013ff072899a220502fc0cdad6bb4d176",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCo1vptTrl/v6R0\n74t864XWVFYg8Q6nUCWRt/Gc1nMHsP+t3lk5Bh5bx1MwXZRMF8p2pNpTVTstiYNj\nh+WRdxAA5a9km4AlSvp43TR81pz9Ir5hx38hKz7Hw0FJl4reKAu9ZRQtavhTJJVR\nuvfA5ClzvmcAnaa35sSu7B0QFk2xaJpJt928/F9kyptQJzZS84plFFf6TloFsIQT\nh2cvePwTPX3v7EQnnkbH+QacBdKSDvzLVHhUTIwu2VcxHT1W0a+DhQSfUKfjR2Pe\nosZ9wiMW21OONhdUTw/iLwbDlylX9hEkYA5418OuQ8p/5A1g57uqYxRTVN8s3Tqm\n1l5gzOhxAgMBAAECggEAEvd4cSJOehR7GuREgwtZsPSvKrrtqpu5JrQXVScti6QF\nauCfHQXsD+MVvCmNBNnI1ZhqCsG4uMI5g2szHarWfkVPFVIXHIleVwjBclMxFkoq\ngSU2KbGYFzx+12+pytBMllF2KW56eCuURxbF6XIwGmednk73eTH4Lw7I6oNY5biD\nvA14UewWHzHYH9M94z18DwUHcxywgEhcq23A2026cjTF2bC25DZPDfAhUGNnsIDu\noOjW2DW+/gtA2c0u3lL82AbMVxxWWdwGRe64goXqCZ5fLMVDHDRNcQ2eZvNe+TFD\nMC1AxTayBYXaekYOb1BFWUSGf/vSKw3GnYIl9keDqQKBgQDhjLUnL27PpWqxx3I/\nLqJU+fbLOQy9DSNlb/eEkCxNkNDdz0p78EC8Cis3JYG8MaICgjq5OTlxiP5RVQXe\nD3Q5RCvtb27h1ROwIhrfJU+cJv/3rduhmBuZ082zmgGnDLrczPyS0XXCSMZ16ZMB\nCMFxZ0Aw0+y49AcZQR9TE7vwqQKBgQC/ok1wfosNUIeSgoAT3nWPysw8OJhjdl8y\nCmQ9dq/DA7fvwyTGteeNv9YItyD6gVng64zpwcelGicOiJjKLrQLSndIOmzFBvXm\n++iPdl8uyHIANxz0qjauZag/2SQnLKvHy+r55rI40PrzXgpUuT6sTVroGs/Juzj0\n+EbNvRzuiQKBgCtNPkIloxqOYWt8JPzoURYLX0woyb9J1G/XDSgQHdFOaisLbvtY\nZrUzJpTRyJR+2uGsauXAjLy1Vk37CsNVKDUOV3igGiOVKtB327zXhu8ttZqxcCcX\n8sSXmzhN6t9NXFqjqCHvwLHqEt/0Vdqu+aRx9CrrpNjlUK+ShxcGBODxAoGAAJQ2\n864OMX4aysCGLokvhb2xHEV3gGVtKDOL1fuz0D0Eoz7Nr6QBDRaVSPV0rg0R/nH3\nvQUO21rW315eR84YUShqb9dtWLMKryX3r+dFpliIr6N6/Oo+vAwmk/rN9yhVZIcj\nMJoX08Ad4fpYwaTFobOiIK1kD1H3fBX78McvfTECgYEAgd9m+l5IpQYU0NSomApq\nL1twZKfipf5in4Q2DoXB3hv2nH0mavJS1u1iGv9+3Jq3565oN/7LuTFc38BZok+J\ngPc6MsieHqoaKm3FsLjcxGzV7sc7Y22dHWAqNSFAC2s5OjCVRE2RmRt9srIuGGWl\ntEdJflTmBpAh9RIzaMLpQMc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "barber-shop-bot@elite-barber-shop-bot.iam.gserviceaccount.com",
+  "client_id": "113465237495552489403",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/barber-shop-bot%40elite-barber-shop-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

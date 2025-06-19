@@ -1,0 +1,14 @@
+[
+  {
+    "id": "20450b23",
+    "name": "Test User",
+    "date": "2025-06-20",
+    "time": "04:28 PM",
+    "service": "Test Service",
+    "user_id": 123,
+    "status": "confirmed",
+    "created": "2025-06-19T16:28:50.399989",
+    "phone": "",
+    "notes": ""
+  }
+]
